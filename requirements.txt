@@ -1,0 +1,6 @@
+pandas
+pymongo
+seaborn
+graph-tool
+networkx
+fastprogress
