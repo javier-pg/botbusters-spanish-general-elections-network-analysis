@@ -4,3 +4,4 @@ seaborn
 graph-tool
 networkx
 fastprogress
+wordcloud
